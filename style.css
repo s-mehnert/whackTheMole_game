@@ -1,3 +1,8 @@
+html {
+    max-width: 500px;
+    margin: auto;
+}
+
 body {
     background-color: #31403d;
     color: ghostwhite;
